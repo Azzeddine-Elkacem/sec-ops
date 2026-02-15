@@ -1,0 +1,2 @@
+  <Route path="/reset-password/:token" element={<ResetPasswordPage />} />
+  <Route path="/forgot-password" element={<ForgotPasswordPage />} />
