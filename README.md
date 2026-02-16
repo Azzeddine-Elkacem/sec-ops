@@ -1,4 +1,4 @@
-#Live-Demo : [here]((https://azzeddine-elkacem.github.io/))
+#Live-Demo : [here](https://azzeddine-elkacem.github.io/)
 # SecOps - Cybersecurity as a Service Platform
 
 A modern, multi-page React application for SecOps, a Cybersecurity-as-a-Service (SECaaS) platform tailored for Algerian startups and SMEs.
