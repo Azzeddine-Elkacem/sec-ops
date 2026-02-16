@@ -1,5 +1,4 @@
-## 🚀 Live Demo
-👉 [Click here](https://azzeddine-elkacem.github.io/sec-ops/)
+
 
 # SecOps - Cybersecurity as a Service Platform
 
